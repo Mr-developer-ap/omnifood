@@ -1,3 +1,6 @@
+
+            alert("با سلام یک این یک وب سایت نمونه کار بدون بک اند می باشد.")
+
 $(document).ready(function()  {
     /*sticky-nav*/
     $('.js--section-features').waypoint(function(direction) {
